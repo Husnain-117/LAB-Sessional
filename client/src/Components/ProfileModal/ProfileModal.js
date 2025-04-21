@@ -1,3 +1,4 @@
+import React from 'react';
 import { Modal, useMantineTheme } from '@mantine/core';
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
